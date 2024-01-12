@@ -1,5 +1,9 @@
 # CPW-resonators
 1. Goppl ... A. Walraff 2008 CPW Resonators for cirquit QED
-2. Gevorgian, Linner,... 1995 IEEE Transactions CAD Models for Shielded Multilayered CPW
+   https://qudev.phys.ethz.ch/static/content/science/papers/Goeppl2008_JAP.pdf
+3. Gevorgian, Linner,... 1995 IEEE Transactions CAD Models for Shielded Multilayered CPW
 Conformal Mappings
-3. 
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=375223
+4. Watanabe - Yoshida, Kinetic Inductance of Superconducting CPW waveguides
+https://iopscience.iop.org/article/10.1143/JJAP.33.5708/pdf
+
